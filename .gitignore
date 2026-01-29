@@ -1,0 +1,49 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Logs and local data
+*.log
+*.sqlite3
+
+# Environment / secrets
+.env
+.env.*
+*.pem
+
+# IDE / editor
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter & checkpoints
+.ipynb_checkpoints/
+*.ipynb
+
+# Python tooling caches
+.mypy_cache/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local datasets or large files
+/data/
+outputs/
+
+
+# Ignore specific files
+Project08/学习路线.md
